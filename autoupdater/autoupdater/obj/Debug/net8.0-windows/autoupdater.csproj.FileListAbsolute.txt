@@ -14,3 +14,4 @@ C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net
 C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.pdb
 C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.genruntimeconfig.cache
 C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\ref\autoupdater.dll
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.sourcelink.json

@@ -14,7 +14,7 @@ namespace autoupdater
         private string localVersion = "1.0";
 
         // takes version information from GitHub.
-        private const string VersionUrl = "enter version.txt";
+        private const string VersionUrl = "https://raw.githubusercontent.com/borashen059/autoupdater/refs/heads/main/version.txt";
 
         // download url
         private const string DownloadUrl = "please enter your download url...";
