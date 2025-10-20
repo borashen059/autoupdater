@@ -1,0 +1,16 @@
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.Form1.resources
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.csproj.GenerateResource.cache
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.AssemblyInfoInputs.cache
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.AssemblyInfo.cs
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.csproj.CoreCompileInputs.cache
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\bin\Debug\net8.0-windows\autoupdater.exe
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\bin\Debug\net8.0-windows\autoupdater.deps.json
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\bin\Debug\net8.0-windows\autoupdater.runtimeconfig.json
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\bin\Debug\net8.0-windows\autoupdater.dll
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\bin\Debug\net8.0-windows\autoupdater.pdb
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.dll
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\refint\autoupdater.dll
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.pdb
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\autoupdater.genruntimeconfig.cache
+C:\Users\Bora\Desktop\c# repos\autoupdater\autoupdater\autoupdater\obj\Debug\net8.0-windows\ref\autoupdater.dll

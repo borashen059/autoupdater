@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bora\\Desktop\\c# repos\\autoupdater\\autoupdater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C5647-88D0-4666-8D72-A2FC373BBE6D}|autoupdater\\autoupdater.csproj|c:\\users\\bora\\desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57C5647-88D0-4666-8D72-A2FC373BBE6D}|autoupdater\\autoupdater.csproj|solutionrelative:autoupdater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57C5647-88D0-4666-8D72-A2FC373BBE6D}|autoupdater\\autoupdater.csproj|c:\\users\\bora\\desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F57C5647-88D0-4666-8D72-A2FC373BBE6D}|autoupdater\\autoupdater.csproj|solutionrelative:autoupdater\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 270,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\Form1.cs",
+              "RelativeDocumentMoniker": "autoupdater\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\Form1.cs*",
+              "RelativeToolTip": "autoupdater\\Form1.cs*",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:29:50.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Bora\\Desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\Form1.cs",
+              "RelativeDocumentMoniker": "autoupdater\\Form1.cs",
+              "ToolTip": "C:\\Users\\Bora\\Desktop\\c# repos\\autoupdater\\autoupdater\\autoupdater\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "autoupdater\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:29:42.153Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
