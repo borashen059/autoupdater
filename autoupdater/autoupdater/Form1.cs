@@ -11,7 +11,7 @@ namespace autoupdater
     public partial class Form1 : Form
     {
         //current version
-        private string localVersion = "1.0";
+        private string localVersion = "1.2";
 
         // takes version information from GitHub.
         private const string VersionUrl = "https://raw.githubusercontent.com/borashen059/autoupdater/refs/heads/main/version.txt";
